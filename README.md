@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to ahmed mahmoud's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -16,6 +16,7 @@
 - 💬 Ask me about my experience with JavaScript, ReactJS  or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at (will be added soon) to see some of the projects I've worked on.
+- 
 
 
 ### Connect with Me :
