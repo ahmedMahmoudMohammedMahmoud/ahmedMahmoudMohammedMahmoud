@@ -21,7 +21,9 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/ahmedmahmoud-mmd-profile
+
+" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
